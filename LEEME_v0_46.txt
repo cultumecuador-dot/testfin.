@@ -1,0 +1,10 @@
+Finis v0.46
+
+Cambios principales:
+- Selector Rápida / Con más detalle para ingresos, gastos personales y gastos de actividad.
+- Modo rápido registra un valor y frecuencia por tipo; el botón i muestra ejemplos de rubros.
+- Modo detallado conserva el registro por rubros.
+- Aportes familiares se limita a Pensión alimenticia y Otros aportes, con ejemplos informativos.
+- Limpieza del menú lateral y tarjeta temporal “Un asesor a tu alcance”.
+- Mejora del resumen mensual/anual, tarjetas de resultados, botones de regreso y pantalla motivacional.
+- La pregunta de aportes familiares ahora requiere selección y botón Guardar y continuar.
