@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Finis - Finanzas para tus metas</title>
+  <desc id="desc">Logotipo de Finis con la palabra fin en naranja, is en azul marino y el lema Finanzas para tus metas.</desc>
+  <defs>
+    <linearGradient id="finOrange" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ff9d10"/>
+      <stop offset="100%" stop-color="#f47b00"/>
+    </linearGradient>
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#173b6c" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <g filter="url(#softShadow)">
+    <text x="110" y="248" font-family="Segoe UI, Trebuchet MS, Arial, sans-serif" font-size="250" font-weight="800" letter-spacing="-6" fill="url(#finOrange)">fin</text>
+    <text x="634" y="248" font-family="Segoe UI, Trebuchet MS, Arial, sans-serif" font-size="250" font-weight="800" letter-spacing="-6" fill="#0f2d63">is</text>
+    <circle cx="363" cy="78" r="22" fill="#ff8a00"/>
+    <circle cx="760" cy="78" r="22" fill="#ff8a00"/>
+    <text x="116" y="374" font-family="Segoe UI, Trebuchet MS, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-2" fill="#0f2d63">Finanzas para</text>
+    <text x="675" y="374" font-family="Segoe UI, Trebuchet MS, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-2" fill="url(#finOrange)">tus metas</text>
+  </g>
+</svg>
