@@ -1,0 +1,19 @@
+Finis v0.54
+Fecha: 31 de julio de 2026
+
+Cambios principales:
+- El informe imprimible utiliza el logotipo oficial Finis_logo_pulido.svg, incorporado dentro de la plantilla para que aparezca al guardar como PDF en computadora y móvil.
+- La etapa 3 "Tus metas" se resalta durante el registro, la evaluación específica de metas y la pantalla motivacional relacionada.
+- Al entrar a "Tu panorama financiero", la etapa de metas queda marcada claramente como completada, con visto y texto de estado.
+- Se mantiene el orden: Situación actual -> Proyección -> Metas -> Panorama financiero.
+
+Estructura para GitHub Pages:
+- index.html
+- LEEME_v0_54.txt
+- assets/Finis_logo_pulido.svg
+
+Pruebas recomendadas:
+1. Registrar una meta y comprobar que "3. Tus metas" quede resaltada.
+2. Abrir "Ver mis metas" desde el panorama y confirmar que el panel vuelva a resaltar la etapa 3.
+3. Regresar al panorama y confirmar que la etapa 3 se vea completada.
+4. Abrir el informe, imprimir o guardar como PDF desde computadora y teléfono, y verificar que aparezca el logo completo.
